@@ -1,6 +1,6 @@
 Revision history for App-ParseNetstat
 
-0.10    2014-12-01 (PERLANCAR) (unreleased)
+0.10    2014-12-01 (PERLANCAR)
 
         - First release, split from Parse-Netstat to reduce Parse::Netstat's
           dependencies.
