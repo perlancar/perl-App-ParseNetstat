@@ -1,5 +1,12 @@
 Revision history for App-ParseNetstat
 
+0.13    2016-01-18 (PERLANCAR)
+
+        - No functional changes.
+
+        - [build] Rebuild to fix POD rendering.
+
+
 0.12    2015-09-03 (PERLANCAR)
 
 	- No functional changes.
