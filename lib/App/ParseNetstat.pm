@@ -4,4 +4,8 @@ package App::ParseNetstat;
 # VERSION
 
 1;
-# ABSTRACT: Parse netstat output
+# ABSTRACT: Parse netstat output (CLI)
+
+=head1 SEE ALSO
+
+L<Parse::Netstat>
