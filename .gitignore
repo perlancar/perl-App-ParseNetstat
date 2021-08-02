@@ -2,3 +2,4 @@ App-ParseNetstat-*
 .build
 *~
 nytprof*
+.DS_Store
